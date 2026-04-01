@@ -7,14 +7,14 @@
     a img { display: block; width: 100%; max-width: 720px; cursor: pointer; }
     a img:hover { opacity: 0.85; }
   </style>
-<head>
   <meta property="og:title" content="WATCH HOW CRINGE MR. BEAST IS ON SURVIVOR!!">
   <meta property="og:description" content="Click to watch now">
-  <meta property="og:image" content="Mr. Beast Cringe.jpeg>
+  <meta property="og:image" content="https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/Mr.%20Beast%20Cringe.jpeg">
   <meta property="og:url" content="https://www.youtube.com/watch?v=Aq5WXmQQooo">
+</head>
 <body>
   <a href="https://www.youtube.com/watch?v=Aq5WXmQQooo" target="_blank">
-    <img src="Mr. Beast Cringe.jpeg" alt="WATCH HOW CRINGE MR. BEAST IS ON SURVIVOR!!">
+    <img src="Mr.%20Beast%20Cringe.jpeg" alt="WATCH HOW CRINGE MR. BEAST IS ON SURVIVOR!!">
   </a>
 </body>
 </html>
