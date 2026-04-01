@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Watch Now</title>
+  <style>
+    body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    a img { display: block; width: 100%; max-width: 720px; cursor: pointer; }
+    a img:hover { opacity: 0.85; }
+  </style>
+</head>
+<body>
+  <a href="https://www.youtube.com/watch?v=Aq5WXmQQooo" target="_blank">
+    <img src="Mr. Beast Cringe.jpeg" alt="Watch the music video">
+  </a>
+</body>
+</html>
